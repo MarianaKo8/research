@@ -1,36 +1,75 @@
+---
+layout: archive
+title: "Team"
+permalink: /team/
+author_profile: true
+---
+
 {% include base_path %}
 
-<div class="{{ include.type | default: "list" }}__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/Person">
-
-    <!-- Team photo -->
-    {% if post.header.image %}
-      <div class="archive__item-photo">
-        <img src="{{ post.header.image | relative_url }}" alt="{{ post.title }}" class="team-photo">
-      </div>
-    {% endif %}
-
-    <!-- Name / Title -->
-    <h2 class="archive__item-title" itemprop="name">
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
-    </h2>
-
-    <!-- Role -->
-    {% if post.role %}
-      <p class="team-role">{{ post.role }}</p>
-    {% endif %}
-
-    <!-- Bio / excerpt -->
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
-    {% else %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>
-    {% endif %}
-
-    <!-- Optional citation / links (if you use them) -->
-    {% if post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
-    {% endif %}
-
-  </article>
+<div class="team-group-photo">
+  <img src="{{ '/assets/images/team-pic.png' | relative_url }}" alt="Our Team">
 </div>
+
+<div class="team-list">
+  {% for post in site.team %}
+    <div class="team-card">
+      <!-- Team member photo -->
+      {% if post.header.teaser %}
+        <div class="team-card-photo">
+          <a href="{{ post.url | relative_url }}">
+            <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }}" class="team-photo">
+          </a>
+        </div>
+      {% endif %}
+
+      <!-- Name -->
+      <h3 class="team-card-name">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+
+      <!-- Role -->
+      {% if post.role %}
+        <p class="team-role">{{ post.role }}</p>
+      {% endif %}
+
+      <!-- Optional excerpt/bio -->
+      {% if post.excerpt %}
+        <p class="team-excerpt">{{ post.excerpt | markdownify | strip_html }}</p>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>
+
+<style>
+.team-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}
+.team-card {
+  width: 200px;
+  text-align: center;
+}
+.team-card-photo img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+}
+.team-role {
+  font-style: italic;
+  color: #555;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+.team-card-name {
+  margin: 10px 0 5px 0;
+}
+.team-excerpt {
+  font-size: 0.9em;
+  color: #333;
+}
+</style>
