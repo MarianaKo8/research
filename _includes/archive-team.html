@@ -7,14 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-<div class="team-group-photo">
-  <img src="{{ '/assets/images/team-pic.png' | relative_url }}" alt="Our Team">
-</div>
-
 <div class="team-list">
   {% for post in site.team %}
     <div class="team-card">
-      <!-- Team member photo -->
+      <!-- Individual member photo -->
       {% if post.header.teaser %}
         <div class="team-card-photo">
           <a href="{{ post.url | relative_url }}">
