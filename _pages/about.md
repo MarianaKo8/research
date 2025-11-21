@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome in the research world inspired by curiosity  and driven by motivation..."
+title: "Welcome in my research world inspired by curiosity  and driven by motivation..."
 author_profile: true
 redirect_from: 
   - /about/
