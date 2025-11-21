@@ -79,3 +79,28 @@
   margin-top: -5px;
   margin-bottom: 10px;
 }
+/* Team card container for new archive-team layout */
+.team-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; /* center the whole grid */
+  gap: 20px; /* spacing between cards */
+}
+
+.team-card {
+  text-align: center; /* center text inside each card */
+  max-width: 200px; /* optional: control card width */
+}
+
+.team-card-name {
+  margin-top: 10px;      /* spacing above name */
+  font-size: 1.1em;      /* adjust name size */
+  font-weight: bold;      /* make names stand out */
+}
+
+.team-role {
+  font-style: italic;
+  color: #555;
+  margin-top: 5px;        /* spacing between name and role */
+  margin-bottom: 10px;
+}
