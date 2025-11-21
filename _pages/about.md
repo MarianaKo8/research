@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Welcome in the research world inspired by curiosity and driven by motivation..."
+title: "Welcome in the research world inspired by curiosity  and driven by motivation..."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Our research combines first-principles calculations and scale-bridging simulations with the main aim to link molecular structure with material's properties. We work with different types of molecules and macromolecules, and examine their diverse advance functionalities steered by chemical composition, intermolecular interactions and assembly processes. The description of the key research topics is provided in Research.  
+Our research combines first-principles calculations and scale-bridging simulations with the main aim to link **molecular structure** with **material's properties**. We work with different types of molecules and macromolecules, and examine their diverse advance functionalities steered by chemical composition, intermolecular interactions and assembly processes. The description of the key research topics is provided in Research.  
 
 Virtual Design of Soft Matter and Natural Materials
 ======
