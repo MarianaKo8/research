@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Dr. Mariana Kozlowska"
+title                    : "Kozlowska's World"
 title_separator          : "-"
 name                     : &name "Mariana Kozlowska"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Mariana Kozlowska"
+  avatar           : "MK_profile.jpg"
+  name             : "Dr. Mariana Kozlowska"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computational Scientist, Group leader, KIT Associate Fellow, Head of the DNA Unit of Virtual Materials Design platform"
   location         : "Eggenstein-Leopoldshafen, Germany"
   employer         : "Karlsruhe Institute of Technology"
   uri              : # URL
@@ -40,15 +40,15 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-8471-8914"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : https://www.researchgate.net/profile/Mariana-Kozlowska?ev=hdr_xprf # URL
+  scopus           : https://www.scopus.com/authid/detail.uri?authorId=57205155435 # URL
 
   # Repositories and software development
  # bitbucket        : # Username - Update with your username on the site
  # codepen          : # Username
  # dribbble         : # Username
-  github           : "academicpages"
+  github           : "MarianaKo8"
 #  kaggle           : # Username  
  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
