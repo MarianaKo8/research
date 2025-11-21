@@ -2,7 +2,8 @@
 layout: single
 title: "Dr. Abhik Ghosh Moulick"
 role: "Postdoctoral Researcher"
-photo: "/research/assets/images/Abhik.png"
+header:
+  image: "{{ site.baseurl }}/assets/images/Abhik.png"
 author_profile: true
 ---
 
