@@ -41,3 +41,41 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+/* ==========================================
+   Team page custom styles
+   ========================================== */
+
+/* Team member avatars */
+.team-photo {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto 10px auto;
+  border: 2px solid #ccc; /* optional border */
+}
+
+/* Optional top group image */
+.team-group-photo {
+  width: 100%;
+  max-width: 600px;
+  display: block;
+  margin: 0 auto 20px auto;
+  border-radius: 10px; /* optional rounded corners */
+}
+
+/* Team card container */
+.archive__item {
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 30px;
+}
+
+/* Role text under the name */
+.team-role {
+  font-style: italic;
+  color: #555;
+  margin-top: -5px;
+  margin-bottom: 10px;
+}
