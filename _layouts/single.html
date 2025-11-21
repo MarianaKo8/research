@@ -15,21 +15,6 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-{% if page.header.teaser %}
-  <div class="team-member-photo">
-    <img src="{{ page.header.teaser | relative_url }}" alt="{{ page.title }}" class="team-photo">
-  </div>
-{% endif %}
-
-<h1>{{ page.title }}</h1>
-
-{% if page.role %}
-  <p class="team-role">{{ page.role }}</p>
-{% endif %}
-
-<div class="page-content">
-  {{ content }}
-</div>  
   {% include sidebar.html %}
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
