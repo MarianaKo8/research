@@ -1,7 +1,7 @@
 ---
 title: Aleksandr Avdoshin
 role: PhD Student
-image: "{{ site.baseurl }}/assets/images/Alex.png"
+image: "/research/assets/images/Alex.png"
 ---
 
 **PhD Student**
