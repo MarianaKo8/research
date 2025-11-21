@@ -88,10 +88,12 @@
 }
 
 .team-card {
-  text-align: center; /* center text inside each card */
-  max-width: 200px; /* optional: control card width */
+  display: flex;
+  flex-direction: column; /* stack image, name, role vertically */
+  align-items: center;    /* center content horizontally */
+  text-align: center;     /* fallback for text */
+  max-width: 200px;
 }
-
 .team-card-name {
   margin-top: 10px;      /* spacing above name */
   font-size: 1.1em;      /* adjust name size */
