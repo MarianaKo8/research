@@ -10,7 +10,6 @@ author_profile: true
 <div class="team-list">
   {% for post in site.team %}
     <div class="team-card">
-      <!-- Individual member photo -->
       {% if post.header.teaser %}
         <div class="team-card-photo">
           <a href="{{ post.url | relative_url }}">
@@ -19,53 +18,13 @@ author_profile: true
         </div>
       {% endif %}
 
-      <!-- Name -->
       <h3 class="team-card-name">
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       </h3>
 
-      <!-- Role -->
       {% if post.role %}
         <p class="team-role">{{ post.role }}</p>
-      {% endif %}
-
-      <!-- Optional excerpt/bio -->
-      {% if post.excerpt %}
-        <p class="team-excerpt">{{ post.excerpt | markdownify | strip_html }}</p>
       {% endif %}
     </div>
   {% endfor %}
 </div>
-
-<style>
-.team-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 30px;
-  justify-content: center;
-}
-.team-card {
-  width: 200px;
-  text-align: center;
-}
-.team-card-photo img {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 2px solid #ccc;
-}
-.team-role {
-  font-style: italic;
-  color: #555;
-  margin-top: 5px;
-  margin-bottom: 10px;
-}
-.team-card-name {
-  margin: 10px 0 5px 0;
-}
-.team-excerpt {
-  font-size: 0.9em;
-  color: #333;
-}
-</style>
