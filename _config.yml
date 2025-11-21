@@ -232,7 +232,7 @@ collections:
     permalink: /:collection/:path/
   team:
     output: true
-    permalink: /team/:path/
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
