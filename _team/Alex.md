@@ -2,7 +2,7 @@
 layout: single
 title: "Aleksandr Avdoshin"
 role: "PhD Student"
-profile:
+header:
 image: "/research/assets/images/Alex.png"
 author_profile: true
 ---
