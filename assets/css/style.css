@@ -1,0 +1,9 @@
+.team-photo {
+  width: 150px;          /* adjust the size as needed */
+  height: 150px;         /* square */
+  object-fit: cover;     /* crops/centers the image */
+  border-radius: 50%;    /* makes it circular */
+  display: block;
+  margin: 0 auto 10px auto; /* centers horizontally */
+  border: 2px solid #ccc;   /* optional border */
+}
