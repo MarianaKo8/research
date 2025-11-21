@@ -1,7 +1,7 @@
 ---
 title: Dr. Abhik Ghosh Moulick
 role: Postdoctoral Researcher
-image: "{{ site.baseurl }}/assets/images/Abhik.png"
+image: "/research/assets/images/Abhik.png"
 ---
 
 **Postdoctoral Researcher**
