@@ -3,7 +3,7 @@ layout: single
 title: "Aleksandr Avdoshin"
 role: "PhD Student"
 header:
-  image: "{{ site.baseurl }}/assets/images/Alex.png"
+  image: "/assets/images/Alex.png"
 author_profile: true
 ---
 
