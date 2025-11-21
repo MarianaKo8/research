@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MK_profile.jpg"
+  avatar           : "MK_profile.png"
   name             : "Dr. Mariana Kozlowska"
   pronouns         : # example: "she/her"  
   bio              : "Computational Scientist, Group leader, KIT Associate Fellow, Head of the DNA Unit of Virtual Materials Design platform"
