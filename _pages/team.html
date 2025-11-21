@@ -2,11 +2,16 @@
 layout: archive
 title: "Team"
 permalink: /team/
+author_profile: true
 ---
+<!-- Optional top group image -->
+<img src="{{ '/assets/images/team-pic.png' | relative_url }}" 
+     alt="Team group picture" 
+     class="team-group-photo">
 
-{% include base_path %}
-
-
-{% for post in site.team %}
-  {% include archive-team.html %}
-{% endfor %}
+<!-- Loop over team members -->
+<div class="team-grid">
+  {% for post in site.team %}
+    {% include archive-team.html %}
+  {% endfor %}
+</div>
