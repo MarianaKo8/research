@@ -5,9 +5,7 @@ permalink: /team/
 author_profile: true
 ---
 
-<!-- Loop over team members -->
-<div class="team-grid">
-  {% for post in site.team %}
-    {% include archive-team.html %}
-  {% endfor %}
-</div>
+{% include base_path %}
+{% for post in site.team %}  
+{% include archive-team.html %}{% endfor %}
+
