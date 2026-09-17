@@ -83,8 +83,10 @@ author:
 publication_category:
   books:
     title: 'Book chapters'
-  manuscripts:
-    title: 'Recent Journal Articles or Preprints'    
+   manuscripts:
+    title: 'Selected Recent Publications'
+  preprints:
+    title: 'Preprints'  
  # conferences:
  #   title: 'Conference Papers'
 
