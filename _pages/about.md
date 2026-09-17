@@ -11,7 +11,7 @@ Our research combines first-principles calculations and scale-bridging simulatio
 
 Virtual Design of Soft Matter and Natural Materials
 ======
-My research group in Virtual Design of Soft Matter and Natural Materials was initiated in 2024 within [SynGen Center](https://www.syn-gen.de/en). We use scale-bridging computational methods to understand the dynamics and assembly of molecules, protein–DNA complexes, and sequence-controlled biomolecular assemblies. By leveraging a wide range of computational techniques and theory–experiment feedback loops, we aim to elucidate mechanistic insights that guide the engineering of nanoscale assemblies and hybrid programmable systems, ultimately enabling the design of new molecules and materials with desired encoded functions.
+My research group in [Virtual Design of Soft Matter and Natural Materials](https://www.int.kit.edu/8643.php) was initiated in 2024 within [SynGen Center](https://www.syn-gen.de/en). We use scale-bridging computational methods to understand the dynamics and assembly of molecules, protein–DNA complexes, and sequence-controlled biomolecular assemblies. By leveraging a wide range of computational techniques and theory–experiment feedback loops, we aim to elucidate mechanistic insights that guide the engineering of nanoscale assemblies and hybrid programmable systems, ultimately enabling the design of new molecules and materials with desired encoded functions.
 
 DNA Unit of VirtMat
 ======
