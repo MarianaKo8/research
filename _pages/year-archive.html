@@ -1,19 +1,44 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Blog posts"
+title: "Blog Posts"
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
 {% include base_path %}
+
+<!--
+BLOG NOTES
+
+Individual blog posts are stored in:
+_posts/
+
+The code below displays all posts and groups them by year.
+
+It is currently commented out so that the existing/template
+posts are NOT shown on the website.
+
+To activate the blog later:
+1. Remove the {% comment %} and {% endcomment %} lines below.
+2. Existing posts in _posts/ will then automatically appear.
+-->
+
+
+{% comment %}
+
 {% capture written_year %}'None'{% endcapture %}
+
 {% for post in site.posts %}
+
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+
   {% if year != written_year %}
     <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
     {% capture written_year %}{{ year }}{% endcapture %}
   {% endif %}
+
   {% include archive-single.html %}
+
 {% endfor %}
+
+{% endcomment %}
