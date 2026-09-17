@@ -8,4 +8,4 @@ venue: 'npj Computational Materials'
 paperurl: 'https://doi.org/10.1038/s41524-026-02044-7'
 citation: 'Avdoshin, et al. <i>npj Comput. Mater.</i> 2026, 12, 124.'
 ---
-Here we developed a multiscale kinetic model for ethylene oligomerization in Ni-grafted NU-1000 that combines density functional theory-derived free-energy barriers with adsorption and diffusion descriptors. The developed multiscale computational model predicts olefin product distributions under realistic reaction conditions. 
+In this work, we presented a multiscale kinetic model that couples DFT-derived Gibbs free-energy barriers with adsorption and diffusion descriptors in the master-equation model of Ni-catalyzed ethylene oligomerization in NU-1000 MOF. This approach allowed us to disentangle how elementary-step reaction energetics, co-adsorption, and mass transport collectively determined oligomerized product distribution under experimentally relevant reactor operating conditions.
