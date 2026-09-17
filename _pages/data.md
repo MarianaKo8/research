@@ -45,9 +45,6 @@ Associated publication, if applicable.
 -->
 
 
-## MOSAIC Lab
-
-**Molecular Organization, Simulation, and Integrated Computation**
 
 Selected computational tools, workflows, and research repositories developed within our research activities are available through the MOSAIC Lab space on KIT GitLab.
 
