@@ -33,7 +33,7 @@ Photos are automatically arranged in two columns.
 
 <h2>2026</h2>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px;">
 
   <div>
     <img src="{{ base_path }}/images/gallery/2026/Alex.jpg"
@@ -61,7 +61,7 @@ Photos are automatically arranged in two columns.
 
 <h2>2025</h2>
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 25px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px;">
 
   <div>
     <img src="{{ base_path }}/images/gallery/2025/retreat_.jpg"
