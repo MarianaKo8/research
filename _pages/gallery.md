@@ -44,7 +44,7 @@ Photos are automatically arranged in two columns.
 
 <div>
     <img src="{{ base_path }}/images/gallery/2026/grc.jpg"
-         alt="GRC in "Computational chemistry""
+         alt="GRC in Computational chemistry"
          style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;">
     <p><em>I was happy to present our work on nucleosomes.</em></p>
   </div>
