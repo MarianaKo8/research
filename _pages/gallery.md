@@ -36,26 +36,27 @@ Photos are automatically arranged in two columns.
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 25px;">
 
   <div>
-    <img src="{{ base_path }}/images/gallery/2026/Alex.jpg"
+    <img src="{{ base_path }}/images/gallery/2026/Alex_.jpg"
          alt="Next Dr. in the group"
          style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;">
-    <p><em>Congratulations to Aleksandr on successfully defending his PhD!</em></p>
+    <p><em>Next Dr. in the group! Congratulations to Aleksandr on successfully defending his PhD!</em></p>
   </div>
 
 <div>
-    <img src="{{ base_path }}/images/gallery/2026/grc.jpg"
+    <img src="{{ base_path }}/images/gallery/2026/grc_.jpg"
          alt="GRC in Computational chemistry"
          style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;">
-    <p><em>I was happy to present our work on nucleosomes.</em></p>
+    <p><em>I was happy to present our work on nucleosomes at GRC in Computational chemistry in Barcelona.</em></p>
   </div>
   
   <div>
     <img src="{{ base_path }}/images/gallery/2026/comp.jpg"
          alt="Virtual DNA"
          style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;">
-    <p><em>We use supercomputers to understand how molecules move, interact, and organize.</em></p>
+    <p><em>We combine physical models and supercomputing to connect molecular structure with material properties and biological function.</em></p>
   </div>
 
+  
 </div>
 
 
@@ -67,23 +68,30 @@ Photos are automatically arranged in two columns.
     <img src="{{ base_path }}/images/gallery/2025/retreat_.jpg"
          alt="Annual GRK2450 retreat"
          style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;">
-    <p><em>Great moments with passionate and talented students.</em></p>
+    <p><em>Great moments with passionate and talented students during annual GRK2450 retreat.</em></p>
   </div>
 
  <div>
     <img src="{{ base_path }}/images/gallery/2025/euromof.jpg"
          alt="My talk at EUROMOF2025"
          style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;">
-    <p><em>We study how metal-organic frameworks respond to light.</em></p>
+    <p><em>My talk at EUROMOF2025 about two-photon absorption in metal-organic frameworks.</em></p>
   </div>
   
   <div>
     <img src="{{ base_path }}/images/gallery/2025/group.jpg"
          alt="My research group in 2025"
          style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;">
-    <p><em>The people behind our research on molecules, materials and biomolecular assemblies at KIT.</em></p>
+    <p><em>My research group in 2025: The people behind our research on molecules, materials and biomolecular assemblies at KIT.</em></p>
   </div>
 
+<div>
+    <img src="{{ base_path }}/images/gallery/2025/Helmy.jpg"
+         alt="Poster prize of Helmy"
+         style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;">
+    <p><em>Best Poster Award for Helmy at the Ab Initio Modelling in Solid State Chemistry Summer School 2025 in Turin, Italy.</em></p>
+  </div>
+  
 </div>
 
 
@@ -102,7 +110,7 @@ Photos are automatically arranged in two columns.
     <img src="{{ base_path }}/images/gallery/2024/group.jpg"
          alt="Our group in 2024"
          style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;">
-    <p><em>Different projects, shared ideas, and a great team.</em></p>
+    <p><em>Our group in 2024: Different projects, shared ideas, and a great team.</em></p>
   </div>
   
 </div>
