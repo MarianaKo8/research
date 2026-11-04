@@ -9,4 +9,4 @@ author_profile: true
 
 **Student Assistant**
 
-Terence works on course-grained simulations of nucleosomes 
+Terence works on coarse-grained simulations of nucleosomes using SIRAH force field 
