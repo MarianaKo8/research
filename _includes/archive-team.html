@@ -2,6 +2,9 @@
 
 <div class="team-list">
   {% for post in site.team %}
+    {% if post.alumni == true %}
+      {% continue %}
+    {% endif %}
     <div class="team-card">
       {% if post.header.teaser %}
         <div class="team-card-photo">
