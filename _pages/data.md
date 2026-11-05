@@ -25,14 +25,12 @@ Associated publication, if applicable.
 
 
 
-Selected computational tools, workflows, and research repositories developed within our research activities are available through the MOSAIC Lab space on KIT GitLab.
+Selected computational tools and workflows developed within our research activities are available through the MOSAIC Lab space on KIT GitLab.
 
 [MOSAIC Lab on KIT GitLab](https://gitlab.kit.edu/kit/mosaic-lab)
 
-### PCU-MOF
-
-Automated workflow for constructing and optimizing metal–organic frameworks with PCU topology and calculating their electronic properties.
-
+#### PCU-MOF 
+Automated workflow for constructing and optimizing metal-organic frameworks with PCU topology and calculating their electronic properties.
 [Code repository](https://github.com/KIT-Workflows/PCU-MOF)
 
 ## Research Data
@@ -137,6 +135,10 @@ and analysis data supporting the publication.
 
 ## Other Research Resources
 
+### Molecular Dynamics Course within SynGen (2025)
+
+Practical tutorials, input files, and example workflows for all-atom and coarse-grained molecular dynamics simulations and trajectory analysis using GROMACS.
+[Course materials on GitHub](https://github.com/PhD-2024/MD_course_SYNGEN_2025/)
 <!--
 Optional section for:
 - structural models
