@@ -110,7 +110,7 @@ Photos are automatically arranged in two columns.
     <img src="{{ base_path }}/images/gallery/2024/group.jpg"
          alt="Our group in 2024"
          style="width: 100%; aspect-ratio: 4 / 3; object-fit: cover; display: block;">
-    <p><em>Our group in 2024: Different projects, shared ideas, and a great team.</em></p>
+    <p><em>My research group in 2024.</em></p>
   </div>
   
 </div>
