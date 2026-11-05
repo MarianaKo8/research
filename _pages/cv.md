@@ -24,6 +24,7 @@ redirect_from:
 
 | Period | Responsibility |
 | --- | --- |
+| 2026–2028 | **Member of the Institute Steering Committee (ILA)**, Institute of Nanotechnology (INT), KIT |
 | 2024–present | **Executive Editor**, *International Journal of Biological Macromolecules* (Elsevier) |
 | 2025 | Referee for doctoral scholarships (*Promotionsförderung*), German Academic Scholarship Foundation (*Studienstiftung des deutschen Volkes*) |
 | 2019–2020 | Executive Board Member, Collaborative Research Centre (CRC) 1176, and Spokesperson for Project Area Q, KIT |
