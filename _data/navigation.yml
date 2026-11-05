@@ -10,15 +10,21 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Data & Software"
-    url: /data/
-
+  - title: "Funding"
+    url: /funding/
+    
   - title: "Team"
     url: /team/
 
-  - title: "Teaching"
-    url: /teaching/
+ # - title: "Teaching"
+ #   url: /teaching/
 
+  - title: "News"
+    url: /news/
+
+  - title: "Data & Software"
+    url: /data/
+    
   - title: "CV"
     url: /cv/
 
