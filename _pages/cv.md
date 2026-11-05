@@ -14,7 +14,7 @@ redirect_from:
 | Period | Position |
 | --- | --- |
 | 2024–present | **Group Leader, KIT Associate Fellow, Head of the DNA Unit of Virtual Materials Design platform**, 
-Karlsruhe Institute of Technology (KIT), Germany |
+|  |            Karlsruhe Institute of Technology (KIT), Germany |
 | 2024–present | Habilitation candidate, Faculty of Chemistry and Biosciences, KIT |
 | 2022–2024 | Senior Researcher, KIT |
 | 2020–2022 | Fellow of the Brigitte-Schlieben-Lange-Programm (MWK Baden-Württemberg), KIT |
