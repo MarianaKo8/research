@@ -17,6 +17,26 @@ news:
     headline: "Aleksandr Avdoshin defends his doctoral thesis with summa cum laude"
     text: "Congratulations, Aleksandr!"
     link: ""
+
+  - date: "2026-07-16"
+    headline: "Helmy Pacheco Hernández successfully defends her PhD"
+    text: "Her doctoral research was supported by a DAAD scholarship. Congratulations, Helmy!"
+    link: ""
+
+  - date: "2025-09-12"
+    headline: "Best Poster Award for Helmy in Turin"
+    text: >-
+      Helmy received the Best Poster Award at the Ab Initio Modelling in Solid State Chemistry Summer School
+      for her work on two-photon absorption in pyrene-based MOFs. Congratulations!
+    link: "https://www.int.kit.edu/wenzel.php"
+
+  - date: "2025-05-17"
+    headline: "Sharing synthetic genomics at the KIT Open Day"
+    text: >-
+      Our group joined Center SynGen to introduce visitors to DNA research and synthetic genomics.
+      [SynGen report](https://www.syn-gen.de/news/kit-open-day)
+      · [KIT Open Day](https://www.kit.edu/kit/english/open-day.php).
+    link: ""
 ---
 
 {% include base_path %}
