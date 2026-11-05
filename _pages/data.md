@@ -43,7 +43,7 @@ Selected computational datasets supporting our publications are deposited in the
 
 Input structures and parameter files for predicting residual dipolar couplings (RDCs) in molecules weakly aligned by PBLG in chloroform.
 
-**Associated publication:** Elsing et al., [Monte Carlo-Based Prediction of Residual Dipolar Couplings in Weakly Aligned Molecules](https://doi.org/10.1021/acs.jctc.6c00299). *Journal of Chemical Theory and Computation* **22**, 6691–6708 (2026).
+**Associated publication:** [DOI](https://doi.org/10.1021/acs.jctc.6c00299)
 
 **NOMAD dataset:** [10.17172/nomad.21re-hz63](https://doi.org/10.17172/nomad.21re-hz63)
 
@@ -51,7 +51,7 @@ Input structures and parameter files for predicting residual dipolar couplings (
 
 Quantum-chemical input and output files, optimized monomer and dimer geometries, and one- and two-photon absorption results for the H<sub>4</sub>TCPE linker.
 
-**Associated publication:** Pacheco Hernandez and Kozlowska, [Intermolecular packing effects on the two-photon absorption of the H<sub>4</sub>TCPE linker](https://doi.org/10.3389/fchem.2026.1805869). *Frontiers in Chemistry* **14**, 1805869 (2026).
+**Associated publication:** [DOI](https://doi.org/10.3389/fchem.2026.1805869)
 
 **NOMAD dataset:** [10.17172/NOMAD/2026.04.16-2](https://doi.org/10.17172/NOMAD/2026.04.16-2)
 
@@ -59,7 +59,7 @@ Quantum-chemical input and output files, optimized monomer and dimer geometries,
 
 Simulation outputs supporting a multiscale model that links reaction energetics, adsorption, and diffusion to ethylene oligomerization selectivity.
 
-**Associated publication:** Avdoshin et al., [Multiscale kinetic model of ethylene oligomerization in Ni-NU-1000 metal-organic framework](https://doi.org/10.1038/s41524-026-02044-7). *npj Computational Materials* **12**, 124 (2026).
+**Associated publication:** [DOI](https://doi.org/10.1038/s41524-026-02044-7)
 
 **NOMAD dataset:** [10.17172/NOMAD/2026.02.12-3](https://doi.org/10.17172/NOMAD/2026.02.12-3)
 
@@ -67,7 +67,7 @@ Simulation outputs supporting a multiscale model that links reaction energetics,
 
 SIRAH coarse-grained molecular dynamics inputs, topology files, and trajectories for CENP-A nucleosomes and CENP-N, together with umbrella-sampling setup files and selected window trajectories.
 
-**Associated publication:** Ghosh Moulick et al., [Structural dynamics in the CENP-A nucleosome impacted by protein–protein interactions with centromere protein N](https://doi.org/10.1039/D5NR04720J). *Nanoscale* **18**, 14951–14966 (2026).
+**Associated publication:** [DOI](https://doi.org/10.1039/D5NR04720J)
 
 **NOMAD dataset:** [10.17172/NOMAD/2026.01.23-1](https://doi.org/10.17172/NOMAD/2026.01.23-1)
 
@@ -77,7 +77,7 @@ SIRAH coarse-grained molecular dynamics inputs, topology files, and trajectories
 
 Molecular dynamics and grand canonical Monte Carlo simulation data for alkene adsorption and diffusion in NU-1000, generated using LAMMPS and RASPA.
 
-**Associated publication:** Avdoshin et al., [Confinement-modulated diffusion of alkenes in NU-1000 framework material](https://doi.org/10.1039/D5CC01329A). *Chemical Communications* **61**, 13711–13714 (2025).
+**Associated publication:** [DOI](https://doi.org/10.1039/D5CC01329A)
 
 **NOMAD dataset:** [10.17172/NOMAD/2025.07.08-1](https://doi.org/10.17172/NOMAD/2025.07.08-1)
 
@@ -85,7 +85,7 @@ Molecular dynamics and grand canonical Monte Carlo simulation data for alkene ad
 
 Optimized ground- and excited-state structures, orbitals, and excitation data for eight donor–acceptor emitters with different triazole connectivities.
 
-**Associated publication:** Holzhauer et al., [Steering the luminescence of donor–acceptor materials by regioisomerism of triazole linkers](https://doi.org/10.1039/D5QM00572H). *Materials Chemistry Frontiers* **9**, 3505–3515 (2025).
+**Associated publication:** [DOI](https://doi.org/10.1039/D5QM00572H)
 
 **NOMAD dataset:** [10.17172/NOMAD/2025.07.18-1](https://doi.org/10.17172/NOMAD/2025.07.18-1)
 
@@ -95,7 +95,7 @@ Optimized ground- and excited-state structures, orbitals, and excitation data fo
 
 GROMACS input files, molecular structures, topologies, and example trajectories for RDC prediction and enantiomer differentiation in the PBLG alignment medium.
 
-**Associated publication:** Elsing et al., [Enantiomer Differentiation by Interaction-Specific Prediction of Residual Dipolar Couplings in Spherical-like Molecules](https://doi.org/10.1021/acs.jctc.4c00441). *Journal of Chemical Theory and Computation* **20**, 6454–6469 (2024).
+**Associated publication:** [DOI](https://doi.org/10.1021/acs.jctc.4c00441)
 
 **NOMAD dataset:** [10.17172/NOMAD/2024.07.31-2](https://doi.org/10.17172/NOMAD/2024.07.31-2)
 
@@ -103,7 +103,7 @@ GROMACS input files, molecular structures, topologies, and example trajectories 
 
 DFT calculation results and kinetic Monte Carlo simulation data for charge separation and transport in NDI-based donor–acceptor metal–organic frameworks.
 
-**Associated publication:** Xu et al., [Regulated Charge Transfer in Donor-Acceptor Metal–Organic Frameworks for Highly-Sensitive Photodetectors](https://doi.org/10.1002/anie.202414526). *Angewandte Chemie International Edition* **63**, e202414526 (2024).
+**Associated publication:** [DOI](https://doi.org/10.1002/anie.202414526)
 
 **NOMAD dataset:** [10.17172/NOMAD/2024.07.29-1](https://doi.org/10.17172/NOMAD/2024.07.29-1)
 
@@ -111,7 +111,7 @@ DFT calculation results and kinetic Monte Carlo simulation data for charge separ
 
 Molecular dynamics data for three aminated chitosan derivatives in neutral and protonated forms, including customized CHARMM force-field setup files for NAMD simulations.
 
-**Associated publication:** Schopmans et al., [Side-chain-induced changes in aminated chitosan: Insights from molecular dynamics simulations](https://doi.org/10.1016/j.ijbiomac.2024.136159). *International Journal of Biological Macromolecules* **282**, 136159 (2024).
+**Associated publication:** [DOI](https://doi.org/10.1016/j.ijbiomac.2024.136159)
 
 **NOMAD dataset:** [10.17172/NOMAD/2024.05.31-1](https://doi.org/10.17172/NOMAD/2024.05.31-1)
 
@@ -139,6 +139,7 @@ and analysis data supporting the publication.
 
 Practical tutorials, input files, and example workflows for all-atom and coarse-grained molecular dynamics simulations and trajectory analysis using GROMACS.
 [Course materials on GitHub](https://github.com/PhD-2024/MD_course_SYNGEN_2025/)
+
 <!--
 Optional section for:
 - structural models
