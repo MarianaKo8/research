@@ -4,29 +4,18 @@ title: "News"
 permalink: /news/
 author_profile: true
 
-# EDIT THE ENTRIES BELOW. Replace or delete these examples before publishing.
-# Dates must be quoted and use "YYYY-MM-DD". The newest date appears first
-# automatically, regardless of where you put an entry in this list.
-# Optional fields: leave text, image, image_alt, or link as "" if not needed.
-# Put news pictures in images/news/ and use a path such as:
-# image: "/images/news/symposium.jpg"
-# For longer explanations, use text: | and indent the following paragraphs.
+
 news:
-  - date: "2026-11-05"
-    headline: "Example news headline — replace with your latest update"
-    text: ""
-    image: ""
-    image_alt: ""
-    link: ""
-
   - date: "2026-10-30"
-    headline: "Example news item with an explanation"
-    text: |
-      Replace this paragraph with a short explanation when the headline needs more context.
+    headline: "Our CENP-A study selected for the 2026 Nanoscale HOT Articles collection"
+    text: >-
+      Using coarse-grained molecular dynamics, we investigated allosteric coupling in CENP-A upon CENP-N binding.
+      [View the HOT Articles collection](https://pubs.rsc.org/nr/collection/33355/2026-Nanoscale-HOT-articles).
+    link: "https://doi.org/10.1039/D5NR04720J"
 
-      You can include **bold text** or [a link](https://example.com) here. Delete this text when no explanation is needed.
-    image: ""
-    image_alt: ""
+  - date: "2026-10-23"
+    headline: "Aleksandr Avdoshin defends his doctoral thesis with summa cum laude"
+    text: "Congratulations, Aleksandr!"
     link: ""
 ---
 
