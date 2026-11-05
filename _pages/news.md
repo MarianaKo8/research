@@ -28,7 +28,7 @@ news:
     text: >-
       Helmy received the Best Poster Award at the Ab Initio Modelling in Solid State Chemistry Summer School
       for her work on two-photon absorption in pyrene-based MOFs. Congratulations!
-    link: "https://www.int.kit.edu/wenzel.php"
+    link: ""
 
   - date: "2025-05-17"
     headline: "Sharing synthetic genomics at the KIT Open Day"
