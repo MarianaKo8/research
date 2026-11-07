@@ -30,14 +30,20 @@ redirect_from:
 | 2025 | Referee for doctoral scholarships (*Promotionsförderung*), German Academic Scholarship Foundation (*Studienstiftung des deutschen Volkes*) |
 | 2019–2020 | Executive Board Member, Collaborative Research Centre (CRC) 1176, and Spokesperson for Project Area Q, KIT |
 
-
 ## Selected Awards
 
 | Year | Award |
 | --- | --- |
 | 2017 | Social Innovation Award, 10th Ranking of Innovation, Poland |
 | 2015 | SKILLS-Praxis laureate, Foundation for Polish Science, Poland |
+| 2014–2015 | Scholarship of Podlaskie Voivodeship and “Individual Support Programme” for the best PhD students |
+| 2012 | Scholarship of the Ministry of Science and Higher Education of Poland for scientific achievements |
 
 ## Education
 
-**2017** - Doctorate in Chemistry, University of Bialystok, Poland
+| Period | Education |
+| --- | --- |
+| 2013–2017 | **PhD in Chemistry**, University of Bialystok, Poland, *summa cum laude*<br>Honorary Diploma (“excellent”)<br>PhD thesis: “Noncovalent interactions in the process of carbon nanotubes functionalization with diisocyanates and polyethylene glycol molecules” (supervisor: Dr. Habil. Pawel Rodziewicz)|
+| 10/2011–10/2013 | **MSc in Chemistry (Physical Chemistry)**, University of Bialystok, Poland<br>Honorary Diploma<br>Master’s thesis: “First principles and experimental studies of guanine and tetrahydrofuran adsorption on carbon nanotubes”. Additionally: **Specialist course in didactic preparation for teaching**, Center of Teacher Education, Poland |
+| 10/2010–07/2011 | **BSc in Chemistry**, University of Bialystok, Poland<br>Honorary Diploma<br>Bachelor’s thesis: “Detection of proteins using Surface Plasmon Resonance” |
+| 09/2007–07/2010 | **Undergraduate studies in Chemistry**, National University of Kyiv-Mohyla Academy, Ukraine<br>Practical training in the synthesis and analysis of carbon nanotubes at the Institute of Physical Chemistry of the National Academy of Sciences of Ukraine |
