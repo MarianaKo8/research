@@ -31,5 +31,8 @@ main:
   - title: "Gallery"
     url: /gallery/
 
+  - title: "More about me"
+    url: /more-about-me/
+
  # - title: "Blog Posts"
  #   url: /year-archive/
