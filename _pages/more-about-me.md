@@ -139,7 +139,7 @@ The following interviews and features capture different stages of my journey. Li
 
 ### Research milestones in the news
 
-In 2017, a **DAAD scholarship** supported my research visit to TU Berlin, where I worked on modelling chitosan biopolymer for the adsorption of nonsteroidal anti-inflammatory drugs.
+In 2017, a **DAAD scholarship** supported my research visit to TU Berlin (the group of Prof. Dr. Maria Andrea Mroginski), where I worked on modelling chitosan biopolymer for the adsorption of nonsteroidal anti-inflammatory drugs.
 
 - [DAAD Scholarship for a University of Białystok Researcher][daad-forum] - *Forum Akademickie*, 12 May 2017.
 
@@ -153,8 +153,8 @@ Travel, ballroom dancing and singing have been part of my life alongside science
 [kron-uwb]: https://biblioteka.uwb.edu.pl/wydarzenia/nasz-kron-w-finale-ogolnopolskiego-konkursu-popularyzator-nauki-2017-2620.html
 [kron-interwizja]: https://www.interwizja.edu.pl/index.php?option=com_content&task=view&id=7122&Itemid=184
 [famelab-semifinal]: https://www.youtube.com/watch?v=yOiqKE9EOGA
-[famelab-final]: https://www.youtube.com/watch?v=i0N_N42jeSI&t=212s
-[carbon-film]: https://www.youtube.com/watch?v=gBFqp2TKAeM&t=126s
+[famelab-final]: https://www.youtube.com/watch?v=i0N_N42jeSI
+[carbon-film]: https://www.youtube.com/watch?v=gBFqp2TKAeM
 [young-academy-report]: https://amu.pan.pl/wp-content/uploads/2017/06/Raport_AMU_2011-2017.pdf
 [artist-interview]: https://uwb.edu.pl/fcp/eFBsTMCQZEyUgCg4WSHd4ak1VYTZUNlAGDzRMdEFcaGNeG09gJxIYIXZvRQIGbyc/_global/public/main/uploads/tiny/nasz-uniwersytet-archiwum/nr24.pdf
 [eureka-interview]: https://www.umb.edu.pl/photo/pliki/eureka/eureka_2014_calosc.pdf
