@@ -6,40 +6,23 @@ author_profile: true
 description: "My story, science communication, interviews, and interests beyond research."
 ---
 
-<!--
-SETUP — these notes are invisible on the published page.
-
-1. Upload this file to _pages/more-about-me.md in the research repository.
-2. Add the following entry under main: in _data/navigation.yml, for example after CV:
-
-  - title: "More about me"
-    url: /more-about-me/
-
-3. Suggested locations for your own uploads:
-   Photos: images/more-about-me/
-   PDFs:   assets/files/more-about-me/
-
-4. Optional photo and PDF blocks appear beside the relevant activities below.
-   Upload the matching file, update its filename/caption, and remove the surrounding
-   HTML comment markers to display the block. Until then, no missing images or local
-   download links will appear. Existing external links already work independently.
-
-5. The relative_url filter includes the repository's /research base URL automatically.
-   Do not add /research to the example asset paths.
-
-6. English link titles below are translations or descriptive labels. The original
-   material is mostly in Polish. Some older sources spell my first name Marianna.
--->
-
 Science is a large part of my life, alongside the people, experiences and interests that shape it. Here I share some of that story, my earlier science communication projects, and a few things I enjoy beyond research.
 
 ## My story
 
-My scientific journey began in Ukraine, where I studied chemistry at the National University of Kyiv-Mohyla Academy, and continued at the University of Białystok in Poland. There, I completed my doctorate in 2017 and discovered how much I enjoyed sharing science with audiences beyond the university. Research later brought me to Germany, first to Berlin and then to Karlsruhe.
+I am originally from Chortkiv, a historic town in western Ukraine. As a child, I imagined becoming a journalist and later a lawyer. By my teenage years, however, I had recognised my inclination towards science and analytical thinking. Science was also part of my family background: my mother teaches anatomy and my father is an engineer. I chose chemistry because it is present all around us, and I saw it as a field in which my knowledge would always have practical value.
 
-I am drawn to the connection between the molecular world and the properties we can observe: how molecules interact, how they assemble, and how their motion changes what they do. Computational chemistry gives me a way to explore those questions. Science communication brings another kind of challenge: finding an explanation, an image or an everyday example that helps someone else see why a question is interesting.
+My scientific journey began in Ukraine at the [National University of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/eng/), known also in community as Mohylanka. The Academy [traces its origins to 1615](https://ukma.edu.ua/eng/index.php/about-us/history) and holds a special place in Ukraine’s intellectual and cultural history. Among its former students was the philosopher and poet [Hryhoriy Skovoroda](https://vm.ukma.edu.ua/en/person/hryhoriy-skovoroda/). Its historic setting and rich academic traditions made studying there particularly meaningful to me: joining Mohylanka meant becoming part of that continuing story.
 
-<!-- OPTIONAL PHOTO — upload images/more-about-me/my-story.jpg, then uncomment.
+I still remember how proud I felt when I was accepted. At the time, the university used its own distinctive entrance examination, covering seven subjects and lasting several hours. My results qualified me for admission to both ecology and chemistry (I applied for both), but my motivation to study chemistry was much stronger. 
+
+In 2010, I moved to Poland for personal reasons and continued my studies at the [University of Białystok](https://uwb.edu.pl/en/), where I completed my doctorate in chemistry in 2017. I also became actively involved in science communication, student initiatives and university life, which I explain in short below.
+
+I am drawn to the connection between the molecular world and the properties we can observe: how molecules interact, how they assemble, and how their motion changes what they do. I turned to theoretical chemistry because limitations in experimental resolution and control left some of the questions I wanted to answer unresolved. Computational chemistry gives me a way to explore these questions and investigate the underlying molecular mechanisms. Sharing science offers another creative challenge: finding an explanation, an image or an everyday example that helps someone else understand why a question matters.
+
+Over time, my work has increasingly focused on developing research projects, building collaborations and supporting younger researchers. Today, much of my energy goes into leading a research group, teaching and developing new scientific directions. The outreach activities collected below reflect a particularly active chapter of my life in Poland, when I explored different ways of bringing science into public conversation.
+
+<!-- PHOTO to do
 <figure>
   <img src="{{ '/images/more-about-me/my-story.jpg' | relative_url }}"
        alt="A personal moment from my scientific journey"
@@ -50,7 +33,7 @@ I am drawn to the connection between the molecular world and the properties we c
 
 ## Science communication & outreach
 
-### KRON — Creative Conversations about Science
+### KRON - Creative Conversations about Science
 
 In 2016, Paweł Szorc and I launched **Kreatywne Rozmowy o Nauce (KRON)** at the University of Białystok. We wanted to welcome people from outside academia, particularly adults, into conversations about current research and its relevance to everyday life.
 
@@ -62,7 +45,7 @@ The project received a **Social Innovation Award in the 10th Ranking of Innovati
 - [KRON in the Final of Science Populariser 2017][kron-uwb] — University of Białystok, 27 November 2017.
 - [KRON Recognised for Social Innovation][kron-interwizja] — Interwizja, 25 May 2017.
 
-<!-- OPTIONAL PHOTO — upload images/more-about-me/kron.jpg, then uncomment.
+<!-- PHOTO to do
 <figure>
   <img src="{{ '/images/more-about-me/kron.jpg' | relative_url }}"
        alt="Speakers and audience at a KRON science communication event"
@@ -71,18 +54,18 @@ The project received a **Social Innovation Award in the 10th Ranking of Innovati
 </figure>
 -->
 
-<!-- OPTIONAL PDF — upload your programme, poster or project material, then uncomment.
+<!-- PHOTO to do
 [KRON programme or poster (PDF)]({{ '/assets/files/more-about-me/kron-programme.pdf' | relative_url }})
 -->
 
-### FameLab Poland — national finalist, 2014
+### FameLab Poland - national finalist, 2014
 
-FameLab challenged me to explain science in just three minutes, using simple props and a clear story. In the semifinal, I used a child's shape-sorting toy to illustrate how a drug fits its molecular target. My final presentation explored hydrogen bonds and how weak interactions can have powerful collective effects.
+FameLab challenged me to explain science in just three minutes, using simple props and a clear story. In the semifinal, I used my son's shape-sorting toy to illustrate how a drug fits its molecular target. My final presentation explored hydrogen bonds and how weak interactions can have powerful cooperative effects.
 
 - [How Does a Drug Find Its Target? — FameLab Poland 2014 semifinal][famelab-semifinal] · Recording published by the Copernicus Science Centre; in Polish.
 - [Weak Bonds, Strong Effects — FameLab Poland 2014 final][famelab-final] · Recording published by the Copernicus Science Centre; in Polish.
 
-<!-- OPTIONAL PHOTO — upload images/more-about-me/famelab-2014.jpg, then uncomment.
+<!-- PHOTO to do
 <figure>
   <img src="{{ '/images/more-about-me/famelab-2014.jpg' | relative_url }}"
        alt="Presenting at FameLab Poland in 2014"
@@ -97,7 +80,7 @@ In my educational film **Shades of Carbon**, made with ADAMED SmartUP, I introdu
 
 - [Watch Shades of Carbon][carbon-film] · In Polish, with English and Ukrainian subtitles available.
 
-<!-- OPTIONAL PHOTO — upload images/more-about-me/adamed-smartup.jpg, then uncomment.
+<!-- PHOTO to do
 <figure>
   <img src="{{ '/images/more-about-me/adamed-smartup.jpg' | relative_url }}"
        alt="An educational activity with ADAMED SmartUP"
@@ -106,19 +89,19 @@ In my educational film **Shades of Carbon**, made with ADAMED SmartUP, I introdu
 </figure>
 -->
 
-### Working with journalists — Rzecznicy Nauki
+### Working with journalists - Rzecznicy Nauki
 
-Following FameLab, I joined the first edition of **Rzecznicy Nauki**, a programme connecting researchers and journalists at the Copernicus Science Centre. I worked with Aleksandra and Piotr Stanisławski, the journalists behind *Crazy Nauka*, on communicating scientific topics through radio and online writing. I discuss this experience in the [2015 interview below][artist-interview].
+Following FameLab, I joined the first edition of **Rzecznicy Nauki**, a programme connecting researchers and journalists at the Copernicus Science Centre in Warsaw. I worked with Aleksandra and Piotr Stanisławski, the journalists behind *Crazy Nauka*, on communicating scientific topics through radio and online writing. I discuss this experience in the [2015 interview below][artist-interview].
 
-### Demonstrations, science festivals & the university community
+### Demonstrations, science festivals and the university community
 
 During my student and doctoral years in Białystok, I took part in chemistry demonstrations and the Podlasie Science and Arts Festival. I also served as president of the **Pozyton chemistry student society** and chaired the university's **Doctoral Students' Council**. These activities connected research with teaching, teamwork and university life.
 
 My early outreach also included helping other researchers communicate their work. I was one of the workshop instructors at the **Kuźnia Młodych Talentów** summer school organised by the Polish Young Academy in Jabłonna, **15–18 September 2016**.
 
-- [Polish Young Academy activity report, 2011–2017 (PDF)][young-academy-report] — the summer school is described on printed pages 74–75.
+- [Polish Young Academy activity report, 2011–2017 (PDF)][young-academy-report] - the summer school is described on printed pages 74-75.
 
-<!-- OPTIONAL PHOTO — upload images/more-about-me/outreach.jpg, then uncomment.
+<!-- PHOTO to do
 <figure>
   <img src="{{ '/images/more-about-me/outreach.jpg' | relative_url }}"
        alt="Taking part in a science festival, demonstration or communication workshop"
@@ -127,32 +110,27 @@ My early outreach also included helping other researchers communicate their work
 </figure>
 -->
 
-<!-- ADD MORE ACTIVITIES HERE when you have the details or photos.
-Possible additions: named school workshops, public lectures, open days, or later
-science communication events. Give each activity a date and a short description.
--->
-
 ## Interviews & media
 
-The following interviews and features capture different stages of my journey. Link titles are provided in English; the original materials are in Polish.
+The following interviews and features capture different stages of my journey. Link titles are provided in English, but the original materials are in Polish.
 
 ### Newspaper & magazine interviews
 
-- **[I Wrote “Artist” on My T-Shirt][artist-interview]** — *Nasz Uniwersytet*, no. 24 (31), March 2015, pp. 24–25. Interview by Urszula Dąbrowska about FameLab, science communication, computational chemistry and my path to Białystok. **Full issue available as a PDF.**
+- **[I Wrote “Artist” on My T-Shirt][artist-interview]** — *Nasz Uniwersytet*, no. 24 (31), March 2015, pp. 24-25. Interview by Urszula Dąbrowska about FameLab, science communication, computational chemistry and my path to Białystok. **Full issue available as a PDF.**
 
-<!-- OPTIONAL LOCAL PDF — upload your copy, then uncomment or use it instead of the external link above.
+<!-- OPTIONAL LOCAL PDF — to upload my copy, or use it instead of the external link above.
 [Read the interview (PDF)]({{ '/assets/files/more-about-me/interview-artist-2015.pdf' | relative_url }})
 -->
 
 - **[What Matters Most Is Doing What You Enjoy][eureka-interview]** — *Eureka! Podlaska Gazeta Maturzystów*, no. 1/2014, p. 25. A conversation about studying chemistry, research opportunities at the University of Białystok and FameLab. **Full issue available as a PDF.**
 
-<!-- OPTIONAL LOCAL PDF — upload your copy, then uncomment.
+<!-- OPTIONAL LOCAL PDF — to upload my copy.
 [Read the interview (PDF)]({{ '/assets/files/more-about-me/interview-eureka-2014.pdf' | relative_url }})
 -->
 
 - **[Why We Chose the University of Białystok][uwb-student-profile]** — *Nasz Uniwersytet*, special issue no. 21 (28), May 2013, p. 17. A short contribution about continuing my chemistry studies in Białystok after studying in Kyiv. **Full issue available as a PDF.**
 
-<!-- OPTIONAL LOCAL PDF — upload your copy, then uncomment.
+<!-- OPTIONAL LOCAL PDF — upload my copy.
 [Read the student feature (PDF)]({{ '/assets/files/more-about-me/uwb-student-feature-2013.pdf' | relative_url }})
 -->
 
@@ -166,21 +144,27 @@ The following interviews and features capture different stages of my journey. Li
 In 2017, a **DAAD scholarship** supported my research visit to TU Berlin, where I worked on modelling biopolymer–carbon nanotube composites for the adsorption of nonsteroidal anti-inflammatory drugs.
 
 - [DAAD Scholarship for a University of Białystok Researcher][daad-forum] — *Forum Akademickie*, 12 May 2017.
-- [A Valuable Scholarship for Mariana Kozłowska][daad-poranny] — *Kurier Poranny*, 7 May 2017; article by Anna Kopeć.
+<!-- - [A Valuable Scholarship for Mariana Kozłowska][daad-poranny] — *Kurier Poranny*, 7 May 2017; article by Anna Kopeć.
 - [Doctoral Researcher Awarded a DAAD Scholarship][daad-bia24] — Bia24, 2017.
+-->
 
 ### An early profile
 
-- [Contributor profile in CHEMIKlight, December 2013 (PDF)][chemik-profile] — a short introduction from my student years, on the inside front cover.
+- [Contributor profile in CHEMIKlight, December 2013 (PDF)][chemik-profile] - a short introduction from my student years, on the inside front cover.
 
 ## Beyond research
 
-Travel, ballroom dancing and singing have been part of my life alongside science. During my years in Białystok, I also sang in the **Angelos choir**. These interests give me other ways to explore, express myself and spend time with people.
+Travel, ballroom dancing and singing have been part of my life alongside science. During my time in Kyiv, I sang with the [Pochaina choir of Kyiv-Mohyla Academy](https://www.ukma.edu.ua/index.php/resursi/kulturno-mistetski-tsentr/365-narodna-akademichna-khorova-kapela-pochaina). Later, in Białystok, I sang with the [Angelos choir](https://festiwal.cerkiew.pl/chory-2023-copy/). I also enjoy staying physically active and have recently started strength training. These interests give me other ways to explore, express myself and spend time with people.
 
-<!-- OPTIONAL PERSONAL PHOTO — upload images/more-about-me/beyond-research.jpg, then uncomment.
+A glimpse of the choirs’ music:
+
+- [Pochaina — an excerpt from Alemdar Karamanov’s *Stabat Mater*](https://www.youtube.com/watch?v=mmPiWKOQtfA), from the choir’s official YouTube channel.
+- [Angelos — a selected choral performance](https://www.youtube.com/watch?v=oe-z0CBaND4&list=RDoe-z0CBaND4&start_radio=1).
+
+<!-- OPTIONAL PHOTO — upload your image, update the caption and remove these comment markers.
 <figure>
   <img src="{{ '/images/more-about-me/beyond-research.jpg' | relative_url }}"
-       alt="A moment from travel, dancing or music beyond research"
+       alt="A personal moment from music, travel or another interest beyond research"
        style="max-width: 100%; height: auto;">
   <figcaption>Add a personal caption and photo credit.</figcaption>
 </figure>
