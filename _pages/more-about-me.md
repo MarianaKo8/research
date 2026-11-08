@@ -78,7 +78,8 @@ FameLab challenged me to explain science in just three minutes, using simple pro
 
 In my educational film **"Shades of Carbon"**, made with ADAMED SmartUP, I introduce carbon and its different forms to a wider audience.
 
-- [Watch Shades of Carbon][carbon-film] · In Polish, with English and Ukrainian subtitles available.
+- [Watch Shades of Carbon][carbon-film] · In Polish, with English subtitles available.
+- [Watch Shades of Carbon][carbon-filmUA] · In Polish, with Ukrainian subtitles available.
 
 <!-- PHOTO to do
 <figure>
@@ -155,6 +156,7 @@ Travel, ballroom dancing and singing have been part of my life alongside science
 [famelab-semifinal]: https://www.youtube.com/watch?v=yOiqKE9EOGA
 [famelab-final]: https://www.youtube.com/watch?v=i0N_N42jeSI
 [carbon-film]: https://www.youtube.com/watch?v=gBFqp2TKAeM
+[carbon-filmUA]: https://www.youtube.com/watch?v=vOLpjDMsQtc
 [young-academy-report]: https://amu.pan.pl/wp-content/uploads/2017/06/Raport_AMU_2011-2017.pdf
 [artist-interview]: https://uwb.edu.pl/fcp/eFBsTMCQZEyUgCg4WSHd4ak1VYTZUNlAGDzRMdEFcaGNeG09gJxIYIXZvRQIGbyc/_global/public/main/uploads/tiny/nasz-uniwersytet-archiwum/nr24.pdf
 [eureka-interview]: https://www.umb.edu.pl/photo/pliki/eureka/eureka_2014_calosc.pdf
