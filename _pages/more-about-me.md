@@ -74,7 +74,7 @@ FameLab challenged me to explain science in just three minutes, using simple pro
 </figure>
 -->
 
-### Educational films — ADAMED SmartUP
+### Educational films - ADAMED SmartUP
 
 In my educational film **Shades of Carbon**, made with ADAMED SmartUP, I introduce carbon and its different forms to a wider audience.
 
@@ -116,19 +116,19 @@ The following interviews and features capture different stages of my journey. Li
 
 ### Newspaper & magazine interviews
 
-- **[I Wrote “Artist” on My T-Shirt][artist-interview]** — *Nasz Uniwersytet*, no. 24 (31), March 2015, pp. 24-25. Interview by Urszula Dąbrowska about FameLab, science communication, computational chemistry and my path to Białystok. **Full issue available as a PDF.**
+- **[I Wrote “Artist” on My T-Shirt][artist-interview]** - *Nasz Uniwersytet*, no. 24 (31), March 2015, pp. 24-25. Interview by Urszula Dąbrowska about FameLab, science communication, computational chemistry and my path to Białystok. **Full issue available as a PDF.**
 
 <!-- OPTIONAL LOCAL PDF — to upload my copy, or use it instead of the external link above.
 [Read the interview (PDF)]({{ '/assets/files/more-about-me/interview-artist-2015.pdf' | relative_url }})
 -->
 
-- **[What Matters Most Is Doing What You Enjoy][eureka-interview]** — *Eureka! Podlaska Gazeta Maturzystów*, no. 1/2014, p. 25. A conversation about studying chemistry, research opportunities at the University of Białystok and FameLab. **Full issue available as a PDF.**
+- **[What Matters Most Is Doing What You Enjoy][eureka-interview]** - *Eureka! Podlaska Gazeta Maturzystów*, no. 1/2014, p. 25. A conversation about studying chemistry, research opportunities at the University of Białystok and FameLab. **Full issue available as a PDF.**
 
 <!-- OPTIONAL LOCAL PDF — to upload my copy.
 [Read the interview (PDF)]({{ '/assets/files/more-about-me/interview-eureka-2014.pdf' | relative_url }})
 -->
 
-- **[Why We Chose the University of Białystok][uwb-student-profile]** — *Nasz Uniwersytet*, special issue no. 21 (28), May 2013, p. 17. A short contribution about continuing my chemistry studies in Białystok after studying in Kyiv. **Full issue available as a PDF.**
+- **[Why We Chose the University of Białystok][uwb-student-profile]** - *Nasz Uniwersytet*, special issue no. 21 (28), May 2013, p. 17. A short contribution about continuing my chemistry studies in Białystok after studying in Kyiv. **Full issue available as a PDF.**
 
 <!-- OPTIONAL LOCAL PDF — upload my copy.
 [Read the student feature (PDF)]({{ '/assets/files/more-about-me/uwb-student-feature-2013.pdf' | relative_url }})
@@ -136,17 +136,14 @@ The following interviews and features capture different stages of my journey. Li
 
 ### Radio conversations
 
-- **[Making Science Accessible][radioskop]** — *Radioskop*, Polish Radio Białystok, 31 March 2017. A conversation with Lech Pilarski about explaining research, engaging young audiences and encouraging curiosity. **Audio recording.**
-- **[Introducing KRON: Creative Conversations about Science][kron-radio]** — Polish Radio Białystok, 15 February 2016. Paweł Szorc and I speak with Miłka Malzahn about the launch of our public science events. **Radio interview.**
+- **[Making Science Accessible][radioskop]** - *Radioskop*, Polish Radio Białystok, 31 March 2017. A conversation with Lech Pilarski about explaining research, engaging young audiences and encouraging curiosity. **Audio recording.**
+- **[Introducing KRON: Creative Conversations about Science][kron-radio]** - Polish Radio Białystok, 15 February 2016. Paweł Szorc and I speak with Miłka Malzahn about the launch of our public science events. **Radio interview.**
 
 ### Research milestones in the news
 
 In 2017, a **DAAD scholarship** supported my research visit to TU Berlin, where I worked on modelling biopolymer–carbon nanotube composites for the adsorption of nonsteroidal anti-inflammatory drugs.
 
-- [DAAD Scholarship for a University of Białystok Researcher][daad-forum] — *Forum Akademickie*, 12 May 2017.
-<!-- - [A Valuable Scholarship for Mariana Kozłowska][daad-poranny] — *Kurier Poranny*, 7 May 2017; article by Anna Kopeć.
-- [Doctoral Researcher Awarded a DAAD Scholarship][daad-bia24] — Bia24, 2017.
--->
+- [DAAD Scholarship for a University of Białystok Researcher][daad-forum] - *Forum Akademickie*, 12 May 2017.
 
 ### An early profile
 
@@ -158,8 +155,8 @@ Travel, ballroom dancing and singing have been part of my life alongside science
 
 A glimpse of the choirs’ music:
 
-- [Pochaina — an excerpt from Alemdar Karamanov’s *Stabat Mater*](https://www.youtube.com/watch?v=mmPiWKOQtfA), from the choir’s official YouTube channel.
-- [Angelos — a selected choral performance](https://www.youtube.com/watch?v=oe-z0CBaND4&list=RDoe-z0CBaND4&start_radio=1).
+- [Pochaina - an excerpt from Alemdar Karamanov’s *Stabat Mater*](https://www.youtube.com/watch?v=mmPiWKOQtfA), from the choir’s official YouTube channel.
+- [Angelos - a selected choral performance](https://www.youtube.com/watch?v=oe-z0CBaND4&list=RDoe-z0CBaND4&start_radio=1).
 
 <!-- OPTIONAL PHOTO — upload your image, update the caption and remove these comment markers.
 <figure>
