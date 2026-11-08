@@ -41,9 +41,9 @@ The format combined short, accessible talks with open discussion. Speakers had a
 
 The project received a **Social Innovation Award in the 10th Ranking of Innovation** in 2017 and reached the **national final of the Science Populariser competition, in the Team category**, that same year.
 
-- [KRON: Inspiring Science Talks for Adults][kron-pap] — PAP / Science in Poland, 20 December 2017; a feature on the project and our approach to public engagement.
-- [KRON in the Final of Science Populariser 2017][kron-uwb] — University of Białystok, 27 November 2017.
-- [KRON Recognised for Social Innovation][kron-interwizja] — Interwizja, 25 May 2017.
+- [KRON: Inspiring Science Talks for Adults][kron-pap] - PAP / Science in Poland, 20 December 2017; a feature on the project and our approach to public engagement.
+- [KRON in the Final of Science Populariser 2017][kron-uwb] - University of Białystok, 27 November 2017.
+- [KRON Recognised for Social Innovation][kron-interwizja] - Interwizja, 25 May 2017.
 
 <!-- PHOTO to do
 <figure>
